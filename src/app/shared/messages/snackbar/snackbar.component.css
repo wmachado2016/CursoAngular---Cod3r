@@ -1,8 +1,8 @@
 .snackbar{
     min-width: 250px;
     margin-left: -125px;
-    background-color: #333;
-    color:#fff;
+    background-color: rgb(231, 40, 40);
+    color:rgb(241, 228, 228);
     text-align: center;
     border-radius: 2px;
     padding: 16px;
